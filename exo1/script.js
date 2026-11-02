@@ -1,14 +1,14 @@
 // TP4 - Exercice 1
-// NB : remplace XX par le numéro de slide correspondant dans ton cours.
+// slide3
  
-// Variables (déclaration avec const/let) - slide XX
+// Variables (déclaration avec const/let) 
 const nom = "John";
 const prenom = "Doe";
 let age = 30;
 let note = 15;
 const PI = 3.14;
  
-// F1 : affiche le nom - fonction (slide XX)
+// F1 : affiche le nom - fonction 
 function f1() {
   console.log(nom); // console.log : seule sortie autorisée
 }
@@ -18,7 +18,7 @@ function f2() {
   console.log(prenom);
 }
  
-// F3 : concaténation de chaînes (slide XX)
+// F3 : concaténation de chaînes 
 function f3() {
   console.log(nom + "-" + prenom);
 }
